@@ -1,0 +1,301 @@
+{
+    "domestic": {
+        "Chardham": {
+            "image": "/images/destination/domestic/chardham-badrinath.avif",
+            "location": "Chardham, Uttarakhand",
+            "rating": 4.8,
+            "reviews": 421,
+            "title": "Sacred Journey to Chardham",
+            "price": "₹24,999",
+            "oldPrice": "₹29,999",
+            "durations": []
+        },
+        "Goa": {
+            "image": "/images/destination/domestic/goa.avif",
+            "location": "Goa, India",
+            "rating": 4.6,
+            "reviews": 1287,
+            "title": "Beachside Bliss in Goa",
+            "price": "₹9,999",
+            "oldPrice": "₹12,999",
+            "durations": [
+                {
+                    "label": "5 Days 4 Nights", 
+                    "pdf": "/pdfs/domestic/goa/goa-5d4n.pdf"
+                }
+            ]
+        },
+        "Gujarat": {
+            "image": "/images/destination/domestic/gujurat.avif",
+            "location": "Gujarat, India",
+            "rating": 4.5,
+            "reviews": 712,
+            "title": "Heritage Trails of Gujarat",
+            "price": "₹11,999",
+            "oldPrice": "₹14,499",
+            "durations": []
+        },
+        "Kashmir": {
+            "image": "/images/destination/domestic/kashmir.avif",
+            "location": "Kashmir, India",
+            "rating": 4.9,
+            "reviews": 942,
+            "title": "Heaven on Earth: Kashmir",
+            "price": "₹17,999",
+            "oldPrice": "₹22,999",
+            "durations": []
+        },
+        "Kerala": {
+            "image": "/images/destination/domestic/kerala.avif",
+            "location": "Kerala, India",
+            "rating": 4.7,
+            "reviews": 856,
+            "title": "Serene Backwaters of Kerala",
+            "price": "₹13,499",
+            "oldPrice": "₹16,999",
+            "durations": []
+        },
+        "Leh Ladakh": {
+            "image": "/images/destination/domestic/Leh-Ladakh.avif",
+            "location": "Leh Ladakh, India",
+            "rating": 4.8,
+            "reviews": 502,
+            "title": "Adventure in Leh Ladakh",
+            "price": "₹21,999",
+            "oldPrice": "₹26,999",
+            "durations": []
+        },
+        "Maharashtra": {
+            "image": "/images/destination/domestic/maharashtra.avif",
+            "location": "Maharashtra, India",
+            "rating": 4.4,
+            "reviews": 389,
+            "title": "Monsoon Magic of Maharashtra",
+            "price": "₹7,999",
+            "oldPrice": "₹10,499",
+            "durations": []
+        },
+        "Manali": {
+            "image": "/images/destination/domestic/manali.avif",
+            "location": "Manali, Himachal Pradesh",
+            "rating": 4.7,
+            "reviews": 768,
+            "title": "Snowy Retreat in Manali",
+            "price": "₹8,499",
+            "oldPrice": "₹11,499",
+            "durations": []
+        },
+        "Meghalaya": {
+            "image": "/images/destination/domestic/Meghalaya.avif",
+            "location": "Meghalaya, India",
+            "rating": 4.6,
+            "reviews": 245,
+            "title": "Mystic Meghalaya Adventures",
+            "price": "₹13,999",
+            "oldPrice": "₹16,499",
+            "durations": []
+        },
+        "Northeast": {
+            "image": "/images/destination/domestic/Northeast.avif",
+            "location": "North East India",
+            "rating": 4.5,
+            "reviews": 332,
+            "title": "Enchanting Northeast Escapes",
+            "price": "₹15,999",
+            "oldPrice": "₹19,999",
+            "durations": []
+        },
+        "Odisha": {
+            "image": "/images/destination/domestic/odisha.avif",
+            "location": "Odisha, India",
+            "rating": 4.3,
+            "reviews": 215,
+            "title": "Spiritual & Coastal Odisha",
+            "price": "₹9,499",
+            "oldPrice": "₹11,999",
+            "durations": []
+        },
+        "South India": {
+            "image": "/images/destination/domestic/south-india-madurai.avif",
+            "location": "South India",
+            "rating": 4.6,
+            "reviews": 441,
+            "title": "Temples and Traditions of South India",
+            "price": "₹14,999",
+            "oldPrice": "₹18,499",
+            "durations": []
+        },
+        "Uttarakhand": {
+            "image": "/images/destination/domestic/uttarakhand.avif",
+            "location": "Uttarakhand, India",
+            "rating": 4.7,
+            "reviews": 388,
+            "title": "Nature’s Paradise: Uttarakhand",
+            "price": "₹10,499",
+            "oldPrice": "₹13,499",
+            "durations": []
+        }
+    },
+    "international": {
+        "Bali": {
+            "image": "/images/destination/international/bali.avif",
+            "location": "Bali, Indonesia",
+            "rating": 4.8,
+            "reviews": 1872,
+            "title": "Tropical Bliss in Bali",
+            "price": "₹24,999",
+            "oldPrice": "₹29,999",
+            "durations": []
+        },
+        "Bhutan": {
+            "image": "/images/destination/international/bhutan.avif",
+            "location": "Bhutan",
+            "rating": 4.7,
+            "reviews": 532,
+            "title": "Happiness in the Himalayas",
+            "price": "₹21,499",
+            "oldPrice": "₹25,999",
+            "durations": []
+        },
+        "Cambodia": {
+            "image": "/images/destination/international/cambodia.avif",
+            "location": "Cambodia",
+            "rating": 4.5,
+            "reviews": 476,
+            "title": "Mysteries of Angkor Wat",
+            "price": "₹26,999",
+            "oldPrice": "₹32,999",
+            "durations": []
+        },
+        "Dubai": {
+            "image": "/images/destination/international/dubai.avif",
+            "location": "Dubai, UAE",
+            "rating": 4.7,
+            "reviews": 1244,
+            "title": "Luxury Escapade in Dubai",
+            "price": "₹34,999",
+            "oldPrice": "₹42,999",
+            "durations": []
+        },
+        "Europe": {
+            "image": "/images/destination/international/europe.avif",
+            "location": "Europe",
+            "rating": 4.9,
+            "reviews": 986,
+            "title": "Timeless Wonders of Europe",
+            "price": "₹99,999",
+            "oldPrice": "₹1,24,999",
+            "durations": []
+        },
+        "Hong Kong & Macau": {
+            "image": "/images/destination/international/hong-kong.avif",
+            "location": "Hong Kong & Macau",
+            "rating": 4.5,
+            "reviews": 562,
+            "title": "City Lights & Culture: Hong Kong & Macau",
+            "price": "₹39,499",
+            "oldPrice": "₹47,999",
+            "durations": []
+        },
+        "Japan": {
+            "image": "/images/destination/international/japan.avif",
+            "location": "Japan",
+            "rating": 4.8,
+            "reviews": 488,
+            "title": "Cherry Blossoms & Culture: Japan",
+            "price": "₹89,999",
+            "oldPrice": "₹1,05,999",
+            "durations": []
+        },
+        "Malaysia": {
+            "image": "/images/destination/international/malaysia.avif",
+            "location": "Malaysia",
+            "rating": 4.6,
+            "reviews": 433,
+            "title": "Multicultural Magic of Malaysia",
+            "price": "₹22,999",
+            "oldPrice": "₹27,499",
+            "durations": []
+        },
+        "Maldives": {
+            "image": "/images/destination/international/maldives.avif",
+            "location": "Maldives",
+            "rating": 4.9,
+            "reviews": 678,
+            "title": "Romantic Escape to Maldives",
+            "price": "₹49,999",
+            "oldPrice": "₹62,999",
+            "durations": []
+        },
+        "Mauritius": {
+            "image": "/images/destination/international/mauritius.avif",
+            "location": "Mauritius",
+            "rating": 4.7,
+            "reviews": 359,
+            "title": "Tropical Paradise: Mauritius",
+            "price": "₹54,999",
+            "oldPrice": "₹67,499",
+            "durations": []
+        },
+        "Nepal": {
+            "image": "/images/destination/international/nepal.avif",
+            "location": "Nepal",
+            "rating": 4.5,
+            "reviews": 410,
+            "title": "Spiritual Serenity of Nepal",
+            "price": "₹18,499",
+            "oldPrice": "₹22,499",
+            "durations": []
+        },
+        "Singapore": {
+            "image": "/images/destination/international/singapore.avif",
+            "location": "Singapore",
+            "rating": 4.7,
+            "reviews": 722,
+            "title": "Futuristic Fun in Singapore",
+            "price": "₹34,999",
+            "oldPrice": "₹41,499",
+            "durations": []
+        },
+        "Singapore & Cruise": {
+            "image": "/images/destination/international/singapore-cruise.avif",
+            "location": "Singapore & Cruise",
+            "rating": 4.8,
+            "reviews": 377,
+            "title": "Singapore with a Cruise Adventure",
+            "price": "₹42,999",
+            "oldPrice": "₹49,999",
+            "durations": []
+        },
+        "Sri Lanka": {
+            "image": "/images/destination/international/sri-lanka.avif",
+            "location": "Sri Lanka",
+            "rating": 4.6,
+            "reviews": 289,
+            "title": "Emerald Isle: Sri Lanka",
+            "price": "₹23,999",
+            "oldPrice": "₹29,499",
+            "durations": []
+        },
+        "Thailand": {
+            "image": "/images/destination/international/thailand.avif",
+            "location": "Thailand",
+            "rating": 4.8,
+            "reviews": 1256,
+            "title": "Exotic Thailand Getaway",
+            "price": "₹19,999",
+            "oldPrice": "₹24,999",
+            "durations": []
+        },
+        "Vietnam": {
+            "image": "/images/destination/international/vietnam.avif",
+            "location": "Vietnam",
+            "rating": 4.7,
+            "reviews": 521,
+            "title": "Timeless Beauty of Vietnam",
+            "price": "₹26,999",
+            "oldPrice": "₹31,999",
+            "durations": []
+        }
+    }
+}
