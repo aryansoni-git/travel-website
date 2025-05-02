@@ -5,10 +5,6 @@ import { Swiper, SwiperSlide } from 'swiper/react';
 import { partners } from '../../config/partners';
 import { swiperModules, breakpoints, autoplayDefaults } from '../../config/swiper';
 
-const partnerAutoplay = {
-    ...autoplayDefaults,
-    delay: 0, // continuous motion
-};
 
 export default function TrustedPartners() {
     return (
@@ -26,7 +22,7 @@ export default function TrustedPartners() {
 
                 <Swiper
                     modules={swiperModules.partners}
-                    autoplay={partnerAutoplay}
+                    autoplay={autoplayDefaults}
                     loop
                     speed={3000}
                     breakpoints={breakpoints.partners}
